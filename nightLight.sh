@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Tested on Ubuntu 18.10
-#It could be use full to enable this script with a shortcut
+#It could be useful to enable this script with a shortcut
 
 nightLight=$(gsettings get org.gnome.settings-daemon.plugins.color night-light-enabled)
 
