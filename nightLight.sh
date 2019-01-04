@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Author : Paul Coral
 #Tested on Ubuntu 18.10
 #It could be useful to enable this script with a shortcut
 
