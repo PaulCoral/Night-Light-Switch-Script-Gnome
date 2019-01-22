@@ -77,3 +77,8 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/or
 gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom"$lastcustom"/ command '~/.CoPaScripts/Night-Light-Switch-Script-Gnome/nightLight.sh'
 
 gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom"$lastcustom"/ binding "$shortcutcode"
+
+echo "-----------DONE-----------
+
+Now your shortcut should be enabled. Enjoy :D
+Project Creator: Paul Coral"
