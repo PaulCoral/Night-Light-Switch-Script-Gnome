@@ -4,6 +4,7 @@ A simple bash shell script to switch( on/off ) the nightlight gnome option
 You can easily use the nightlight mode with gnome desktops.
 
 Easy installation
+=================
 
   - Go in the downloaded folder
   - Add the execution privileges to the installer.sh file (chmod u+x installer.sh)
@@ -12,6 +13,7 @@ Easy installation
 
 
 Hard Installation method (In case of issues)
+============================================
 
 It is very pleasant to use with shortcuts:
   - You just need to go type shortcut in gnome search bar and add a shortcut.
@@ -22,6 +24,7 @@ It is very pleasant to use with shortcuts:
 /\/Modify the shortcut in Gnome settings under the keyboard tab\/\
 
 Remove
+======
   - remove the .CoPaScripts in your home directory
   - remove the shortcut in the gnome settings under the keyboard tab
   - (an uninstaller.sh will be provided in the future)
