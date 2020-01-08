@@ -6,6 +6,7 @@ You can easily use the nightlight mode with gnome desktops.
 Easy installation
 =================
 
+You can also follow this video [tutorial](https://www.youtube.com/watch?v=wUpL-WnHqIc).
   - Go in the downloaded folder
   - Add the execution privileges to the installer.sh file (chmod u+x installer.sh)
   - Run the installer.sh and follow the instruction
