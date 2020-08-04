@@ -32,8 +32,3 @@ Remove
 
 
 ------------------Project creator : Paul Coral----------------------------------
-
-Contact
-=======
-Discord for this repository : https://discord.gg/dHKduBW
-Also, check my profile for other disocrd server.
