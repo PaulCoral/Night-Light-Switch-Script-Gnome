@@ -1,3 +1,7 @@
+| :warning: WARNING :warning:                                                                         |
+|:----------------------------------------------------------------------------------------------------|
+| I am not using the GNOME desktop environment any more so this script won't recieve frequent updates |
+
 # Night-Light-Switch-Script-Gnome
 A simple bash shell script to switch( on/off ) the nightlight gnome option
 
@@ -22,13 +26,13 @@ It is very pleasant to use with shortcuts:
   - (Easy)Go to Display Settings, at the bottom you should see "Night Light". Set the hour from 00:00 to 23:59.
     (Advanced)You can also download the dconf editor and go to "org/gnome/settings-daemon/plugins/color/". Then set "night-light-schedule-from=0 and night-light-schedule-to=24.
 
-/\/Modify the shortcut in Gnome settings under the keyboard tab\/\
+:memo: Modify the shortcut in Gnome settings under the keyboard tab :exclamation:
 
 Remove
 ======
   - remove the .CoPaScripts in your home directory
   - remove the shortcut in the gnome settings under the keyboard tab
-  - (an uninstaller.sh will be provided in the future)
+  - ~(an uninstaller.sh will be provided in the future)~
 
 
 ------------------Project creator : Paul Coral----------------------------------
